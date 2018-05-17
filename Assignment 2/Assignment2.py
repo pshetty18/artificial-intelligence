@@ -1,7 +1,3 @@
-#Sources:
-#https://docs.python.org/3/reference/datamodel.html#data-model
-#http://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/
-
 import math
 
 class State():
