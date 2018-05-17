@@ -1,9 +1,3 @@
-#Sources:
-#https://docs.python.org/3/reference/datamodel.html#data-model
-#https://docs.python.org/3/tutorial/controlflow.html
-#https://www.programiz.com/python-programming/anonymous-function
-#http://interactivepython.org/courselib/static/pythonds/BasicDS/ImplementingaStackinPython.html
-
 import random
 import math
 
